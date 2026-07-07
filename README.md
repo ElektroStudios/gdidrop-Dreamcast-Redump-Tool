@@ -26,9 +26,9 @@
     <a href="https://learn.microsoft.com/en-us/windows/apps/"><img src="https://img.shields.io/badge/platform-Windows-lightgray.svg" alt="Platform"></a>
     <a href="License.md"><img src="https://img.shields.io/github/license/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="License"></a>
   <br>
-    <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/archive/refs/heads/main.zip"><img src="https://img.shields.io/github/repo-size/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Repo size"></a>
+    <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/archive/refs/heads/master.zip"><img src="https://img.shields.io/github/repo-size/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Repo size"></a>
     <a href="https://somsubhra.github.io/github-release-stats/?username=ElektroStudios&repository=gdidrop-Dreamcast-Redump-Tool"><img src="https://img.shields.io/github/downloads/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/total.svg?label=total%20downloads" alt="Total Downloads"></a>
-    <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/commits/main"><img src="https://img.shields.io/github/last-commit/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Last commit"></a>
+    <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/commits"><img src="https://img.shields.io/github/last-commit/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Last commit"></a>
     <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/pulls"><img src="https://img.shields.io/github/issues-pr/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Pull Requests"></a>
     <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/issues?q=is%3Aissue+is%3Aopen"><img src="https://img.shields.io/github/issues/ElektroStudios/gdidrop-Dreamcast-Redump-Tool?color=blue" alt="Open Issues"></a><a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/ElektroStudios/gdidrop-Dreamcast-Redump-Tool?label=&color=28a745" alt="Closed Issues"></a>
     <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/pulse"><img src="https://img.shields.io/badge/maintained-yes-green.svg" alt="Maintenance"></a>
