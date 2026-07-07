@@ -4,7 +4,7 @@
   
   <h1>gdiDrop</h1>
 
-### Command-line utility to convert Dreamcast Redump Images (bin/cue) to GDI Images (bin/raw/gdi).
+### Command-line utility to convert Dreamcast Redump Images (bin/cue)<br>to GDI Images (bin/raw/gdi).
 
 </div>
 
