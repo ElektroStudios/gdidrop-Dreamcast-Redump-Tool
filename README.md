@@ -24,7 +24,7 @@
     <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/releases/latest"><img src="https://img.shields.io/github/v/release/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Latest Release"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/language-C%23-purple.svg?logo=csharp" alt="Language"></a>
     <a href="https://learn.microsoft.com/en-us/windows/apps/"><img src="https://img.shields.io/badge/platform-Windows-lightgray.svg" alt="Platform"></a>
-    <a href="License"><img src="https://img.shields.io/github/license/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="License"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/github/license/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="License"></a>
   <br>
     <a href="https://github.com/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/archive/refs/heads/master.zip"><img src="https://img.shields.io/github/repo-size/ElektroStudios/gdidrop-Dreamcast-Redump-Tool" alt="Repo size"></a>
     <a href="https://somsubhra.github.io/github-release-stats/?username=ElektroStudios&repository=gdidrop-Dreamcast-Redump-Tool"><img src="https://img.shields.io/github/downloads/ElektroStudios/gdidrop-Dreamcast-Redump-Tool/total.svg?label=total%20downloads" alt="Total Downloads"></a>
